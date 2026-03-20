@@ -23,42 +23,42 @@ Execute the necessary commands/batch file for the desired output.
 # WINDOWS COMMANDS:
 ## Exercise 1: Basic Directory and File Operations
 Create a directory named "my-folder"
-![Batch 5 Output](screenshots/myfolder.png)
+![Batch 5 Output](screenshots/myfolder.jpeg)
 ## COMMAND AND OUTPUT
 
 Remove the directory "my-folder"
-![Batch 5 Output](rmdr/bat5.png)
+![Batch 5 Output](rmdr/bat5.jpeg)
 ## COMMAND AND OUTPUT
 
 
 Create the file Rose.txt
-![Batch 5 Output](anaconda/bat5.png)
+![Batch 5 Output](anaconda/bat5.jpeg)
 ## COMMAND AND OUTPUT
 
 
 Create the file hello.txt using echo and redirection
-![Batch 5 Output](helloworld2/bat5.png)
+![Batch 5 Output](helloworld2/bat5.jpeg)
 ## COMMAND AND OUTPUT
 
 Copy the file hello.txt into the file hello1.txt
-![Batch 5 Output](helloworld/bat5.png)
+![Batch 5 Output](helloworld/bat5.jpeg)
 ## COMMAND AND OUTPUT
 
 Remove the file hello1.txt
-![Batch 5 Output](volume/bat5.png)
+![Batch 5 Output](volume/bat5.jpeg)
 ## COMMAND AND OUTPUT
 
 List out the file hello1.txt in the current directory
-![Batch 5 Output](directory/bat5.png)
+![Batch 5 Output](directory/bat5.jpeg)
 ## COMMAND AND OUTPUT
 
 List out all the associated file extensions 
-![Batch 5 Output](assocfile/bat5.png)
+![Batch 5 Output](assocfile/bat5.jpeg)
 ## COMMAND AND OUTPUT
 
 
 Compare the file hello.txt and rose.txt
-![Batch 5 Output](compare/bat5.png)
+![Batch 5 Output](compare/bat5.jprg)
 ## COMMAND AND OUTPUT
 
 ## Exercise 2: Advanced Batch Scripting
@@ -69,7 +69,7 @@ Create a batch file named on the desktop. The batch file need to have a variable
 
 
 ## OUTPUT
-![Batch 5 Output](hellojohn/bat5.png)
+![Batch 5 Output](hellojohn/bat5.jpeg)
 
 
 Create a batch file  on the desktop that checks whether a user-input number is odd or not. The script should:
@@ -83,7 +83,7 @@ Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
 
 ## OUTPUT
-![Batch 5 Output](2.bat/bat5.png)
+![Batch 5 Output](2.bat/bat5.jpeg)
 
 
 
@@ -93,7 +93,7 @@ Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1
 
 
 ## OUTPUT
-![Batch 5 Output](3.bat/bat5.png)
+![Batch 5 Output](3.bat/bat5.jpeg)
 
 
 
@@ -106,7 +106,7 @@ Use pause to keep the command window open after displaying the message.
 Expected Output (if the file exists):
 
 ## OUTPUT
-![Batch 5 Output](4.bat/bat5.png)
+![Batch 5 Output](4.bat/bat5.jpeg)
 
 Write a batch script that displays a simple menu with three options:
 Say Hello – Displays the message Hello, World!
@@ -116,7 +116,7 @@ The script should repeatedly display the menu until the user chooses to exit. Us
 
 
 ## OUTPUT
-![Batch 5 Output](5.bat/bat5.png)
+![Batch 5 Output](5.bat/bat5.jpeg)
 
 
 # RESULT:
